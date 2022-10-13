@@ -11,6 +11,6 @@ export const parameters = {
     },
   },
   docs: {
-    theme: themes.dark,
+    themes: themes.dark,
   },
 }
