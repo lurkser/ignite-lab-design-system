@@ -9,7 +9,7 @@ export default {
   args: {},
   argTypes: {},
   decorators: [
-    Story => {
+    (Story) => {
       return (
         <div>
           {Story()}
